@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/plan_trip/static/css/main.311df790.css",
+    "main.js": "/plan_trip/static/js/main.186680f4.js",
+    "index.html": "/plan_trip/index.html",
+    "main.311df790.css.map": "/plan_trip/static/css/main.311df790.css.map",
+    "main.186680f4.js.map": "/plan_trip/static/js/main.186680f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.311df790.css",
+    "static/js/main.186680f4.js"
+  ]
+}
